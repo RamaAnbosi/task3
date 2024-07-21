@@ -1,0 +1,15 @@
+.team{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+i{
+    width: 20px;
+}
+.teams{
+float: left;
+width:30%;
+}
+.clearfix{
+    clear:both;
+}
